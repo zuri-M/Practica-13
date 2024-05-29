@@ -11,7 +11,7 @@
 <body>
   <section class="wrapper">
     <header>
-      <h1 class="logo">Examen Unidad 3</a></h1>
+      <h1 class="logo">Examen Unidad 3 en Red Hat</a></h1>
       
     </header>
     <section id="contenedor">
